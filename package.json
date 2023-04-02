@@ -1,0 +1,15 @@
+{
+  "name": "lw3-sophomore-l10-nft-collection",
+  "version": "0.1.0",
+  "description": "Training project for lesson 10 NFT-Collection dApp - LearnWeb3DAO Sophomore Track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Markus Eicher",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  }
+}
